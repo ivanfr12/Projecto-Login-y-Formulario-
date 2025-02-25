@@ -20,7 +20,7 @@ Instalación y uso
 
 Clona este repositorio en tu máquina local:
 
-git clone https://github.com/ivanfr12/Projecto-Login-y-Formulario
+git clone https://github.com/ivanfr12/Projecto-Login-y-Formulario-
 
 Abre el archivo index.html en tu navegador para visualizar la página principal.
 
